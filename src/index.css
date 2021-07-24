@@ -112,6 +112,10 @@ ul {
   color: #FBB;
 }
 
+.pigTile img {
+  max-height: 200px;
+}
+
 .minPigTile {
   width: 250px;
   height: 250px;
@@ -149,4 +153,10 @@ ul {
   to {
     transform: rotate(360deg);
   }
+}
+
+.leftNav {
+  float: left;
+  width: 200px;
+  height: 2000px;
 }
